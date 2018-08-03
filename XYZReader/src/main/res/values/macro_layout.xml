@@ -1,0 +1,39 @@
+<resources>
+    <!-- list -->
+    <dimen name="list_side_margin">4dp</dimen>
+    <dimen name="list_toolbar_side_margin">0dp</dimen>
+    <dimen name="padding_Top">16dp</dimen>
+    <dimen name="padding_Left">16dp</dimen>
+    <dimen name="padding_Right">16dp</dimen>
+    <dimen name="padding_Bottom">8dp</dimen>
+
+    <!--ToolBar-->
+    <dimen name="Tool_Bar_left">72dp</dimen>
+
+    <!--Height Of App Bar-->
+    <dimen name="height_Bar">200dp</dimen>
+    <!--Button Of Back-->
+    <dimen name="back_button_padding">16dp</dimen>
+    <dimen name="back_button_elevation">6dp</dimen>
+    <!--Margin Top-->
+    <dimen name="Margin_Top">12dp</dimen>
+    <!--ele-->
+    <dimen name="main_elevation">4dp</dimen>
+    <!--Folating Action Button-->
+    <dimen name="FloatingActionButton_height">52dp</dimen>
+    <dimen name="FloatingActionButton_widht">52dp</dimen>
+
+
+    <integer name="list_column_count">2</integer>
+
+    <!-- detail -->
+    <bool name="detail_is_card">false</bool>
+    <dimen name="detail_photo_height">304dp</dimen>
+    <dimen name="detail_card_top_margin">@dimen/detail_photo_height</dimen>
+    <dimen name="detail_inner_horiz_margin">16dp</dimen>
+    <dimen name="detail_card_max_width">10000dp</dimen> <!-- force match_parent -->
+    <dimen name="detail_metabar_vert_padding">16dp</dimen>
+    <dimen name="detail_metabar_title_bottom_padding">4dp</dimen>
+    <dimen name="detail_body_top_margin">16dp</dimen>
+    <dimen name="detail_body_bottom_margin">88dp</dimen>
+</resources>
